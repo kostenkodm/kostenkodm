@@ -31,5 +31,4 @@ Here are the tools and technologies I’m working with:
 ---
 
 ### 📫 Connect with Me
-- 📩 **Email**: dmitriy.k@example.com *(Replace with your real email address.)*
-- 💼 **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/your-profile) *(Optional)*
+- 📩 **Email**: d_kostenko@icloud.com
